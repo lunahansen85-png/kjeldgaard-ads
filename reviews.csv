@@ -1,0 +1,486 @@
+id,source,out,quote,name,headline_t2,headline_t5,headline_t10
+1,Video,1_inger_1.jpg,Allerede efter 14 dage kunne jeg mærke en tydelig forskel på solskader - de er næsten væk. Desuden er de sorte rande under mine øjne blevet mindre og mine pigmentpletter er afblegede.,- Inger Jensen,"""Solskader er næsten væk
+og sorte rande er mindre.""","SOLSKADER NÆSTEN
+VÆK PÅ 14 DAGE","SOLSKADER NÆSTEN
+VÆK PÅ 14 DAGE"
+2,Video,2_jette_1.jpg,Jeg er 68 år og har brugt Kjeldgaards Serum i tre måneder. Min hud er mega blød - også under øjnene og ned på halsen. Jeg kan varmt anbefale den.,- Jette Grønfeldt,"""Min hud er mega blod
+også under øjnene og på halsen.""","MEGA BLØD HUD
+VED 68 ÅR","MEGA BLØD HUD
+VED 68 ÅR"
+3,Video,3_lene_1.jpg,Jeg har brugt Kjeldgaards Barrier Creme i 2 måneder. Min hud er blevet lidt mere stram og mine folder i kinderne er ikke så dybe. Klar anbefaling!,- Lene Clemmensen,"""Mine folder i kinderne
+er ikke så dybe længere.""","HUDEN MERE
+STRAM OG GLAT","HUDEN MERE
+STRAM OG GLAT"
+4,Video,4_marianne_1.jpg,"Jeg er 68 år og har brugt Kjeldgaards Serum i et halvt års tid. Mine linjer er blevet meget fine, og min hud er blevet blødere og mere smuk.",- Marianne Due,"""Mine linjer er meget fine
+og huden er mere smuk.""","LINJER FINE OG
+HUDEN SMUKKERE","LINJER FINE OG
+HUDEN SMUKKERE"
+5,Video,5_winie_1.jpg,"Jeg har brugt Kjeldgaards Serum i to år. Min hud er i så fin en fugtbalance, at jeg aldrig bruger dagcreme eller natcreme længere. Finere rynker rundt om øjnene og overlæben.",- Winie Moeslund,"""Jeg bruger aldrig dagcreme
+eller natcreme længere.""","BRUGER IKKE
+DAGCREME LÆNGERE","BRUGER IKKE
+DAGCREME LÆNGERE"
+6,TP,6_bettina_1.jpg,Det glatter de fine linjer ud og mine mørke rander under øjnene er faktisk væk. Selv min bekymringsrynke i panden er blevet mindre synlig. De varmeste anbefalinger herfra,- Bettina Kirkegaard,"""Produktet er virkelig
+fem stjerner værd.""","MØRKE RANDER
+ER FAKTISK VÆK","MØRKE RANDER
+ER FAKTISK VÆK"
+7,TP,7_bettina_2.jpg,Selve produktet er virkelig fem stjerner værd. Det glatter de fine linjer ud og mine mørke rander under øjnene er faktisk væk. Selv min bekymringsrynke i panden er blevet mindre synlig. De varmeste anbefalinger herfra,- Bettina Kirkegaard,"""Det glatter de fine linjer ud og
+mine mørke rander er faktisk væk.""","FEM STJERNER
+VÆRD","FEM STJERNER
+VÆRD"
+8,TP,8_gitte_1.jpg,"Jeg har i mange år brugt forskellige cremer, som kun kunne købes på skønhedsklinikker. Nu har jeg prøvet Kjeldgaard serum i 2 mdr. Den er meget fugtgivende og giver glød. Dejligt kun at bruge et produkt.",- Gitte Vedel,"""Dejligt kun at bruge
+et produkt.""","FRA KLINIK-CREME
+TIL ÉT PRODUKT","FRA KLINIK-CREME
+TIL ÉT PRODUKT"
+9,TP,9_gitte_2.jpg,Den er meget fugtgivende og giver glød. Jeg har i mange år brugt forskellige cremer som kun kunne købes på skønhedsklinikker. Nu har jeg prøvet Kjeldgaard serum i 2 mdr. Dejligt kun at bruge et produkt.,- Gitte Vedel,"""Den er meget fugtgivende
+og giver glød.""","FUGTGIVENDE OG
+GIVER GLØD","FUGTGIVENDE OG
+GIVER GLØD"
+10,TP,10_nina_1.jpg,"Var lidt skeptisk inden jeg købte mit første Kjeldgaard produkt, men efter 3 mdr. kan jeg kun anbefale produktet. Kan tydelig se en forskel i ansigtet og på halsen, de synlige rynker er blevet meget mindre og min hud er blevet pæn og glat.",- Nina Eben Jensen,"""De synlige rynker er
+blevet meget mindre.""","FRA SKEPTISK
+TIL OVERBEVIST","FRA SKEPTISK
+TIL OVERBEVIST"
+11,TP,11_ann_1.jpg,Fantastisk produkt! Kan allerede efter at have brugt det i 14 dage se fremgang,- Ann Louise Haugaard,"""Fantastisk produkt!""","FREMGANG
+PÅ 14 DAGE","FREMGANG
+PÅ 14 DAGE"
+12,TP,12_christel_1.jpg,"Jeg er vildt begejstret for Barrier Defence Serum. Mine markeringer i ansigtet er blevet væsentlig formindsket, ansigtshuden ser sund, mættet og ensartet ud. Store anbefalinger herfra!",- Christel Møker,"""Ansigtshuden ser sund,
+mættet og ensartet ud.""","HUDEN SER SUND
+OG ENSARTET UD","HUDEN SER SUND
+OG ENSARTET UD"
+13,TP,13_kate_1.jpg,"Er forbavset over virkningen - mine rynker ved øjnene, halsen og omkring munden er blevet formindsket",- Kate,"""Mine rynker er
+blevet formindsket.""","27% FÆRRE RYNKER
+PÅ 28 DAGE","27% FÆRRE RYNKER
+PÅ 28 DAGE"
+14,TP,14_kate_2.jpg,"Mine rynker er blevet formindsket - Er forbavset over virkningen ved øjnene, halsen og omkring munden",- Kate,"""Er forbavset
+over virkningen.""","MINE RYNKER ER
+FORMINDSKET","MINE RYNKER ER
+FORMINDSKET"
+15,Video,15_marianne_1.jpg,"Før jeg begyndte at bruge cremen, var min hud grå og meget tør. Nu er min hud bare silkeblød og har fået sin glød tilbage. Samtidig har den udglattet de små fine linjer og rynker.",- Marianne,"""Min hud var grå og tør -
+nu er den silkeblød.""","FRA GRÅ OG TØR
+TIL SILKEBLØD","FRA GRÅ OG TØR
+TIL SILKEBLØD"
+16,Video,16_marianne_2.jpg,Min hud var grå og tør - nu er den silkeblød og har fået sin glød tilbage. Samtidig har den udglattet de små fine linjer og rynker.,- Marianne,"""Glød og silkeblød
+hud tilbage.""","GLØD OG SILKEBLØD
+HUD TILBAGE","GLØD OG SILKEBLØD
+HUD TILBAGE"
+17,TP,17_sussie_1.jpg,"Jeg har brugt Kjeldgaards Barrier defense siden den blev frigivet. Huden er glattere, blødere og ikke mindst er mine solskader forsvundet!",- Sussie,"""Huden er glattere, blødere
+og mine solskader er forsvundet.""","SOLSKADER ER
+FORSVUNDET","SOLSKADER ER
+FORSVUNDET"
+18,Meta,18_emma_1.jpg,Jeg vil virkelig anbefale denne serum! Rigtig gode resultater. Min hud er meget blødere og ser sundere ud. Blot efter et par ugers brug.,- Emma Kristine Eduardsen,"""Rigtig gode resultater
+blot efter et par ugers brug.""","HUDEN BLADERE
+OG SUNDERE","HUDEN BLØDERE
+OG SUNDERE"
+19,Meta,19_emma_2.jpg,Min hud er meget blødere og ser sundere ud - blot efter et par ugers brug.,- Emma Kristine Eduardsen,"""Blødere hud
+efter få uger.""","SYNLIG FORSKEL
+PÅ FÅ UGER","SYNLIG FORSKEL
+PÅ FÅ UGER"
+20,Video,20_karina_1.jpg,"Efter at jeg er begyndt at bruge Kjeldgaards serum, er de fine linjer udvisket, og de dybe rynker er knap så dybe.",- Karina,"""De fine linjer er udvisket
+og de dybe rynker er knap så dybe.""","FINE LINJER
+UDVISKET","FINE LINJER
+UDVISKET"
+21,Video,21_karina_2.jpg,Jeg droppede natcremen og dagcremen - nu bruger jeg kun et produkt. Kjeldgaards Defense Serum har mindsket mine kragetæer ved øjnene og rynkerne rundt om munden.,- Karina,"""Jeg droppede natcremen
+og dagcremen.""","KRAGETÆR VED
+ØJNENE MINIMERET","KRAGETÆR VED
+ØJNENE MINIMERET"
+22,Video,22_karina_3.jpg,Jeg er 60 - og mine fine linjer rundt om øjnene er faktisk begyndt at forsvinde. Jeg vil varmt anbefale Kjeldgaards Defense Serum.,- Karina,"""Jeg er 60 - og mine fine
+linjer er begyndt at forsvinde.""","FINE LINJER VED
+ØJNENE FORSVINDER","FINE LINJER VED
+ØJNENE FORSVINDER"
+23,TP,23_gitte_1.jpg,"Lækker konsistens, fugter huden rigtig godt - og så hjælper den faktisk på at mindske og udglatte de fine linjer omkring øjne osv. Kæmpe anbefaling herfra!",- Gitte Gren,"""Kæmpe anbefaling
+herfra!""","FINE LINJER
+UDGLATTET","FINE LINJER
+UDGLATTET"
+24,TP,24_ingrid_1.jpg,Fantastisk produkt - har brugt det længe nu og min hud er blevet smidig og glansfuld.,- Ingrid Hedevang,"""Min hud er blevet
+smidig og glansfuld.""","HUDEN SMIDIG
+OG GLANSFULD","HUDEN SMIDIG
+OG GLANSFULD"
+25,TP,25_jane_1.jpg,"Jeg får ros for min hud, min alder taget i betragtning. Den er meget mere glat og strålende end mine jævnaldrende veniners.",- Jane Lyngholm,"""Huden er mere glat og
+strålende end mine veninders.""","FÅR ROS FOR
+MIN HUD","FÅR ROS FOR
+MIN HUD"
+26,TP,26_jane_2.jpg,Serummet er super lækkert. Trænger hurtigt ind i huden og den strækker langt. Huden føles blød og dejligt fugtet efter brug.,- Jane Lyngholm,"""Huden føles blod
+og dejligt fugtet.""","HUDEN FØLES BLØD
+OG FUGTET","HUDEN FØLES BLØD
+OG FUGTET"
+27,TP,27_kathrine_1.jpg,Jeg har brugt Barrier defense serum i næsten 1 år. Min hud føles blød og glat uden brug af andre cremer. Det er et fantastisk produkt som sikrer at min hud altid føles frisk. Jeg elsker den!,- Kathrine Evers,"""Jeg elsker den!""","HUDEN FØLES BLØD
+OG GLAT","HUDEN FØLES BLØD
+OG GLAT"
+28,TP,28_katja_1.jpg,Fantastisk produkt. Har aldrig haft så pæn en hud før.,- Katja Freiberg,"""Har aldrig haft
+så pæn en hud før.""","ALDRIG HAFT SÅ
+PÆN EN HUD","ALDRIG HAFT SÅ
+PÆN EN HUD"
+29,TP,29_mette_1.jpg,"Det er et fantastisk produkt. Fugter huden godt uden at give en fedtet hud, og den har tydeligt mindsket rynker. Det er min fjerde bestilling nu.",- Mette Fisker,"""Den har tydeligt
+mindsket rynker.""","SYNLIGT MINDSKET
+RYNKER","SYNLIGT MINDSKET
+RYNKER"
+30,TP,30_pia_1.jpg,"Endelig lykkes det mig at finde en serum som virkelig virker - er bare blevet mega afhængig af den, så kun en varm anbefaling herfra",- Pia Anne Marie Hansen,"""Endelig en serum
+som virkelig virker.""","ENDELIG EN SERUM
+DER VIRKER","ENDELIG EN SERUM
+DER VIRKER"
+31,TP,31_jeanette_1.jpg,Et super dejligt produkt - mine brune pletter efter solbadning er forsvundet efter 2 måneder.,- Jeanette,"""Mine brune pletter er
+forsvundet efter 2 måneder.""","BRUNE PLETTER
+ER FORSVUNDET","BRUNE PLETTER
+ER FORSVUNDET"
+32,TP,32_kristina_1.jpg,Jeg er nu på min tredje serum og kan varmt anbefale den. Det bedste serum. Så en klar forandring efter ca 14 dage. Nu kan jeg ikke bruge andet!,- Kristina Johnson,"""Det bedste serum -
+klar forandring efter 14 dage.""","KLAR FORANDRING
+EFTER 14 DAGE","KLAR FORANDRING
+EFTER 14 DAGE"
+33,TP,33_lene_1.jpg,Er super glad for min serum. Den hjælper på mine mørke rande under øjnene og på min rosacea på næse og kinder. Jeg kan kun anbefale denne serum.,- Lene Mønsted,"""Den hjælper på mine mørke
+rande og min rosacea.""","HJÆLPER PÅ
+MØRKE RANDE","HJÆLPER PÅ
+MØRKE RANDE"
+34,TP,34_lotte_1.jpg,"Jeg er ovenud begejstret over produktet, som jeg kan se i den grad har formindsket mine rynker - hvad enten det er panderynker, rynker ved mundvigene eller bekymringsrynker. Jeg kan kun anbefale produktet.",- Lotte,"""Jeg kan kun
+anbefale produktet.""","RYNKER FORMINDSKET
+OVERALT","RYNKER FORMINDSKET
+OVERALT"
+35,TP,35_majken_1.jpg,"Har aldrig oplevet et produkt som rent faktisk hjælper og gør det det skal i forhold til min hud, acne ar, linjer mv. Virkelig alle pengene værd.",- Majken,"""Virkelig alle
+pengene værd.""","VIRKELIG ALLE
+PENGENE VÆRD","VIRKELIG ALLE
+PENGENE VÆRD"
+36,TP,36_tina_1.jpg,"Det er virkelig den bedste serum jeg har prøvet. Den virker, reducerer rynker og fine linjer, og min hud stråler og ser mere sund ud. En serum der virkelig lever 100% op til det de skriver.",- Tina,"""Den bedste serum
+jeg har prøvet.""","LEVER 100% OP
+TIL LØFTET","LEVER 100% OP
+TIL LØFTET"
+37,TP,37_tina_2.jpg,"Endelig en serum, der lever 100% op til det lovede. Min hud stråler og ser mere sund ud. Mine bedste anbefalinger!",- Tina,"""Lever 100% op
+til det lovede.""","HUDEN STRÅLER
+OG SER SUND UD","HUDEN STRÅLER
+OG SER SUND UD"
+38,TP,38_denice_1.jpg,Jeg kan så tydeligt se forskel på min hud efter at have brugt serumen i 4 måneder - mine rynker er tydeligt blevet mindre og min hud er blevet meget mere glat og blød.,- Denice Zachariasen,"""Mine rynker er tydeligt
+blevet mindre.""","RYNKER TYDELIGT
+BLEVET MINDRE","RYNKER TYDELIGT
+BLEVET MINDRE"
+40,TP,40_jannie_1.jpg,Super lækkert produkt som min hud nyder stor glæde af. Mange andre hudplejeprodukter er blevet helt overflødige efter jeg er gået over til denne serum.,- Jannie Andersen,"""Mange hudplejeprodukter
+er blevet overflødige.""","ANDRE PRODUKTER
+BLEV OVERFLØDIGE","ANDRE PRODUKTER
+BLEV OVERFLØDIGE"
+41,TP,41_line_1.jpg,Virkelig lækker serum. Har brugt den hver dag i et par måneder nu og kan se en tydelig forskel. Den bliver en fast del af hudplejen!,- Line R W,"""Kan se en tydelig forskel
+efter et par måneder.""","TYDELIG FORSKEL
+PÅ FÅ MÅNEDER","TYDELIG FORSKEL
+PÅ FÅ MÅNEDER"
+42,TP,42_lone_1.jpg,Dette er helt sikkert det bedste jeg har prøvet. I en alder på 68 er min hud helt baby blød og fine rynker er små. Min bedste anbefaling.,- Lone Kreipke,"""I en alder på 68 er
+min hud helt baby blød.""","BABY BLØD HUD
+VED 68 ÅR","BABY BLØD HUD
+VED 68 ÅR"
+43,TP,43_louise_1.jpg,"Uuundværlig! Allerede efter 1 uge var min hud og glød helt anderledes end den plejer, og efter 1 måneds brug har den synligt minimeret rynker og pigmenter.",- Louise Jeppesen,"""Uuundværlig!""","FORSKEL ALLEREDE
+EFTER 1 UGE","FORSKEL ALLEREDE
+EFTER 1 UGE"
+44,TP,44_louise_2.jpg,Jeg var i tvivl - men den er SÅ meget pengene værd. Allerede efter 1 uge var min hud og glød helt anderledes end den plejer.,- Louise Jeppesen,"""SÅ meget
+pengene værd.""","SÅ MEGET
+PENGENE VÆRD","SÅ MEGET
+PENGENE VÆRD"
+45,TP,45_pernille_1.jpg,"En super skøn serum, som man ikke kan undvære, og som holder 100% i forhold til beskrivelsen af produktet. Jeg har brugt produktet de sidste 6 måneder, og jeg er kæmpe fan.",- Pernille,"""Den holder 100% i
+forhold til beskrivelsen.""","HOLDER 100%
+HVAD DEN LOVER","HOLDER 100%
+HVAD DEN LOVER"
+46,TP,46_annette_1.jpg,"Jeg er meget glad for Kjeldgaards Serum og ser meget tydelige resultater. Jeg er 63 år, og med dette serum opstrammes huden tydeligt, bliver mere klar og levende.",- Annette Asmus,"""Jeg er 63 - og huden
+oprammer tydeligt.""","HUDEN MERE KLAR
+OG LEVENDE","HUDEN MERE KLAR
+OG LEVENDE"
+47,TP,47_jannie_1.jpg,Har været meget tilfreds med Kjeldgaard Barrier Defense. Kan tydelig mærke og se forskel på min hud i ansigtet.,- Jannie Lange Pedersen,"""Kan mærke og se
+forskel på huden.""","TYDELIG FORSKEL
+I ANSIGTET","TYDELIG FORSKEL
+I ANSIGTET"
+48,TP,48_jeanette_1.jpg,Jeg har brugt det siden nytår men allerede efter 3-4 uger forsvandt den rødmen jeg har haft omkring næsen i flere år - en rødmen som lægen mente var Rosacea.,- Jeanette Lauridsen,"""Rødmen fra Rosacea
+forsvandt efter 3-4 uger.""","RØDMEN VED
+NÆSEN FORSVANDT","RØDMEN VED
+NÆSEN FORSVANDT"
+49,TP,49_trine_1.jpg,Endelig et produkt som holder hvad det lover. Jeg kan kun anbefale det!,- Trine Vilhelmsen,"""Endelig et produkt
+som holder hvad det lover.""","HOLDER HVAD
+DET LOVER","HOLDER HVAD
+DET LOVER"
+50,TP,50_ulla_1.jpg,"Den første serum, der har gjort noget godt for min hud og mig. Er utrolig nem at bruge og holder længe. Tak for et godt produkt.",- Ulla Tange,"""Den første serum der
+har gjort noget godt for mig.""","DEN FØRSTE DER
+VIRKELIG HJÆLPER","DEN FØRSTE DER
+VIRKELIG HJÆLPER"
+51,TP,51_anita_1.jpg,"Giver huden et fantastisk løft og masser af glød. I mit lange liv har jeg prøvet alverdens cremer, men dette produkt slar simpelthen alt. Min hud føles fuldstændig silkeblød, og man kan på ingen måde se, at jeg snart er 60 år.",- Anita Malmstedt,"""Man kan på ingen måde se,
+at jeg snart er 60 år.""","HUDEN FULDSTÆNDIG
+SILKEBLØD","HUDEN FULDSTÆNDIG
+SILKEBLØD"
+52,TP,52_anita_2.jpg,"Man kan på ingen måde se, at jeg snart er 60 år. Jeg har prøvet alverdens cremer, men dette slar simpelthen alt!",- Anita Malmstedt,"""Man kan ikke se
+jeg snart er 60.""","MAN KAN IKKE SE
+JEG ER 60 ÅR","MAN KAN IKKE SE
+JEG ER 60 ÅR"
+54,TP,54_charlotte_1.jpg,Min hud er mættet og føles blød hele dagen. Det føles som om produktet går mere i dybden end andre produkter jeg har prøvet.,- Charlotte Snor,"""Huden er mættet og
+føles blød hele dagen.""","HUDEN FØLES BLØD
+HELE DAGEN","HUDEN FØLES BLØD
+HELE DAGEN"
+55,TP,55_hanne_1.jpg,"Den bedste serum jeg til dato har prøvet. Huden bliver dejlig blød og ser friskere ud - og ja, yngre ser den også ud. Jeg er mere end tilfreds!",- Hanne Weber,"""Huden ser friskere ud -
+og ja, yngre også.""","HUDEN SER
+YNGRE UD","HUDEN SER
+YNGRE UD"
+56,TP,56_lis_1.jpg,"Den bedste creme - bruger den hver dag, den har taget mange af mine rynker og min hud er blevet så blød. Kan varmt anbefales.",- Lis Pedersen,"""Den har taget mange
+af mine rynker.""","MANGE RYNKER
+VÆK","MANGE RYNKER
+VÆK"
+57,TP,57_lisbeth_1.jpg,"Efter ganske få dage kunne jeg allerede se og mærke forskel. Ansigtet føles dejligt hele dagen! Det bedste produkt, jeg til dato har brugt.",- Lisbeth,"""Det bedste produkt
+jeg til dato har brugt.""","FORSKEL EFTER
+GANSKE FÅ DAGE","FORSKEL EFTER
+GANSKE FÅ DAGE"
+58,TP,58_mia_1.jpg,Den serum er for vild! Holder 100% hvad den lover - den er blevet et fast produkt i min morgen og aften rutine.,- Mia Sørensen,"""Den er for vild -
+holder 100% hvad den lover.""","HOLDER 100%
+HVAD DEN LOVER","HOLDER 100%
+HVAD DEN LOVER"
+59,Video,59_conny_1.jpg,"Jeg har nu brugt Kjeldgaards serum i to måneder, og det er det bedste, jeg nogensinde har gjort for mig selv. Jeg har ikke så store poser under øjnene mere.",- Conny,"""Det bedste jeg
+nogensinde har gjort for mig selv.""","POSER UNDER
+ØJNENE FORSVUNDET","POSER UNDER
+ØJNENE FORSVUNDET"
+60,Video,60_dorte_1.jpg,"Jeg har brugt Kjeldgaards Defense Serum igennem det sidste halve år. Jeg har brugt andre serummer i flere år, men den her er simpelthen i en klasse for sig.",- Dorte Wittrock,"""Den her er simpelthen
+i en klasse for sig.""","I EN KLASSE
+FOR SIG","I EN KLASSE
+FOR SIG"
+61,Video,61_dorte_2.jpg,Kjeldgaards er bare det bedste mærke på markedet. Det giver en helt utrolig fugt - jeg behøver ikke lægge dagcreme ovenpå når jeg har brugt serum.,- Dorte Wittrock,"""Kjeldgaards er det
+bedste mærke på markedet.""","UTROLIG FUGT
+OG GLØD","UTROLIG FUGT
+OG GLØD"
+62,Video,62_helle_1.jpg,"Denne serum fra Kjeldgaard har jeg brugt i tre måneder, og jeg er stor fan. Huden bliver smidig og blød og ser sundere ud. Der er ingen serummer der kan måle sig med denne.",- Helle Madsen,"""Ingen serummer kan
+måle sig med denne.""","HUDEN SMIDIG,
+BLØD OG SUND","HUDEN SMIDIG,
+BLØD OG SUND"
+63,Video,63_maja_1.jpg,Jeg er 71 år - og kan slet ikke undvære den. Jeg har brugt Kjeldgaards Barrier Defense i cirka et år og det er simpelthen så lækkert at smøre ud.,- Maja Isaksen,"""Jeg er 71 år - og
+kan slet ikke undvære den.""","KAN SLET IKKE
+UNDVÆRE DEN","KAN SLET IKKE
+UNDVÆRE DEN"
+64,Video,64_signe_1.jpg,"Jeg begyndte at bruge det for et år siden, og jeg kan tydeligt se en forskel i mine rynker. Huden føles mere elastisk, og det fedter ikke. En kæmpe anbefaling herfra!",- Signe Klint Buchbjerg,"""Jeg kan tydeligt se
+en forskel i mine rynker.""","HUDEN MERE
+ELASTISK","HUDEN MERE
+ELASTISK"
+65,Meta,65_ann_1.jpg,Hudpleje rutinen er blevet noget nemmere med kun jeres Barrier Defense Serum og nu er jeg på 5. måned og er stadig super godt tilfreds med resultatet og følelsen.,- Ann Boye-Hansen,"""På 5. måned og stadig
+super tilfreds.""","PÅ 5. MÅNED OG
+STADIG TILFREDS","PÅ 5. MÅNED OG
+STADIG TILFREDS"
+66,Meta,66_birgitte_1.jpg,"Køb den, det er simpelthen så lækker og jeg har fået rigtig blød og frisk hud. Alt hvad de siger er RIGTIGT.",- Birgitte,"""Alt hvad de siger
+er RIGTIGT.""","ALT HVAD DE
+SIGER ER RIGTIGT","ALT HVAD DE
+SIGER ER RIGTIGT"
+67,Meta,67_birgitte_2.jpg,"Køb det, alt hvad der bliver sagt passer. Jeg har selv købt og brugt det og kan se og mærke den store forskel, jeg er 61 år.",- Birgitte,"""Kan se og mærke
+den store forskel.""","KAN SE OG MÆRKE
+DEN STORE FORSKEL","KAN SE OG MÆRKE
+DEN STORE FORSKEL"
+69,Video,69_birgitte_1.jpg,"Jeg er 68 år. Jeg har nu i fire måneder brugt Kjeldgaards Barrier Defense Serum. Det har bevirket, at min hud er blevet ekstremt blød, helt silkeagtig. Den har reduceret rigtig mange af mine små rynker, de er nærmest forsvundet.",- Birgitte Tronøe,"""Mine små rynker er nærmest
+forsvundet.""","NÆRMEST FORSVUNDET
+PÅ 4 MÅNEDER","NÆRMEST FORSVUNDET
+PÅ 4 MÅNEDER"
+70,Meta,70_birthe_1.jpg,Har brugt den 1 dag og kan mærke at det er den jeg skal bruge fremover.,- Birthe Klausen,"""Brugt den 1 dag og
+ved den er den rigtige.""","MÆRKEDE DET
+PÅ DAG 1","MÆRKEDE DET
+PÅ DAG 1"
+71,Meta,71_britt_2.jpg,Virkelig et fantastisk serum med synlige resultater.,- Britt,"""Fantastisk serum med
+synlige resultater.""","SYNLIGE
+RESULTATER","SYNLIGE
+RESULTATER"
+72,Meta,72_britt_1.jpg,"Jeg vil stærkt anbefale Kjeldgaard serum til kvinder i alle aldre fordi den har så gode ingredienser som f.eks hyaluronsyre som er hudens vigtigste byggesten og den er nem at påføre, et par dråber er nok.",- Britt Bente Andreasen,"""Anbefaler den til
+kvinder i alle aldre.""","ANBEFALER DEN
+TIL ALLE ALDRE","ANBEFALER DEN
+TIL ALLE ALDRE"
+73,Meta,73_britt_2.jpg,"Er utrolig glad for min serum, den udglatter og opstrammer og gør huden dejlig fast og blød, rynkerne er meget mindre synlige. Det er fast inventar i min daglige hudpleje.",- Britt Bente Andreasen,"""Udglatter, opstrammer og
+gør huden fast og blød.""","UDGLATTER OG
+OPSTRAMMER","UDGLATTER OG
+OPSTRAMMER"
+74,Meta,74_britt_3.jpg,"Den bedste jeg har prøvet, man kan både se og mærke forskellen. Huden bliver mere blød og glat og rynkerne minimeres.",- Britt Bente Andreasen,"""Huden bliver mere blød
+og rynkerne minimeres.""","BLØDERE HUD OG
+MINDRE RYNKER","BLØDERE HUD OG
+MINDRE RYNKER"
+75,Meta,75_britt_4.jpg,Den får fem stjerner af mig. Den er super effektiv.,- Britt Bente Andreasen,"""Super effektiv.""","SUPER
+EFFEKTIV","SUPER
+EFFEKTIV"
+76,Meta,76_britt_1.jpg,Jeg har brugt den i en måned og kan virkelig se forskel. Før brugte jeg en del penge på alt det man skulle købe til ansigtet. Her bruger man kun en fantastisk serum.,- Britt Larsen,"""Kan virkelig se forskel
+efter en måned.""","KAN VIRKELIG
+SE FORSKEL","KAN VIRKELIG
+SE FORSKEL"
+77,Meta,77_charlotte_1.jpg,Fantastisk lækkert produkt. Er ved min anden flaske og har allerede købt flere. Kan varmt anbefales. Jeg er 62 og har synlige resultater allerede.,- Charlotte Dam,"""Jeg er 62 og har
+synlige resultater allerede.""","SYNLIGE RESULTATER
+VED 62 ÅR","SYNLIGE RESULTATER
+VED 62 ÅR"
+78,Meta,78_dorte_1.jpg,Er virkelig glad for min Serum. Kunne hurtigt se en forandring i ansigtet. Bruger den morgen og aften.,- Dorte Bruun Tronstrøm Lind,"""Kunne hurtigt se en
+forandring i ansigtet.""","HURTIGT SYNLIG
+FORANDRING","HURTIGT SYNLIG
+FORANDRING"
+79,Meta,79_dorthe_1.jpg,"Jeg har prøvet mange forskellige serummer, men denne er absolut min favorit, så den vil jeg fortsætte med. Mine bedste anbefalinger.",- Dorthe Albertsen,"""Denne er absolut
+min favorit.""","ABSOLUT
+MIN FAVORIT","ABSOLUT
+MIN FAVORIT"
+80,Meta,80_elisabeth_1.jpg,"Klart det bedste serum jeg nogensinde har prøvet! Synlig forskel efter kun 1,5 uger!",- Elisabeth Fossheim,"""Synlig forskel efter
+kun 1,5 uger.""","SYNLIG FORSKEL
+EFTER 1,5 UGE","SYNLIG FORSKEL
+EFTER 1,5 UGE"
+81,Meta,81_emma_1.jpg,Jeg vil virkelig anbefale denne serum! Rigtig gode resultater. Min hud er meget blødere og ser sundere ud. Blot efter et par ugers brug.,- Emma Kristine Eduardsen,"""Min hud er meget blødere
+og ser sundere ud.""","BLØDERE HUD
+EFTER 2 UGER","BLØDERE HUD
+EFTER 2 UGER"
+82,Meta,82_ferida_1.jpg,"Fantastisk produkt, har brugt to flasker og nu bestilt tre. Kæmpe anbefaling herfra.",- Ferida Sahovic Bilalovic,"""Kæmpe anbefaling
+herfra.""","KÆMPE
+ANBEFALING","KÆMPE
+ANBEFALING"
+83,Meta,83_gauger1234_1.jpg,Jeg er også mega glad for cremen. Jeg ser forskel i mit ansigt og det har også hjulpet på mine rynker og poser under øjnene.,- Gauger1234,"""Hjulpet på mine rynker
+og poser under øjnene.""","HJULPET PÅ RYNKER
+OG POSER","HJULPET PÅ RYNKER
+OG POSER"
+84,TP,84_gitte_2.jpg,"Fantastisk produkt. Lækker konsistens, fugter huden rigtig godt - og så hjælper den faktisk på at mindske og udglatte de fine linjer omkring øjne osv. Kæmpe anbefaling herfra.",- Gitte Gren,"""Kæmpe anbefaling
+herfra.""","KÆMPE
+ANBEFALING","KÆMPE
+ANBEFALING"
+85,Meta,85_gitte_1.jpg,"Har lige fået min for et par dage siden, hold nu op, det er et skønt produkt. Kan kun anbefales.",- Gitte Overgaard,"""Hold nu op, det er
+et skønt produkt.""","ET SKØNT
+PRODUKT","ET SKØNT
+PRODUKT"
+86,Meta,86_helle_1.jpg,Den er SÅ Fantastisk og har bestilt igen. Den hjælper super godt på min eksem og fugter godt.,- Helle,"""Den hjælper super godt
+på min eksem.""","HJÆLPER PÅ
+EKSEM OG FUGTER","HJÆLPER PÅ
+EKSEM OG FUGTER"
+87,Meta,87_helle_1.jpg,"Super lækkert produkt, de bedste anbefalinger herfra.",- Helle Nielsen,"""Super lækkert produkt.""","DE BEDSTE
+ANBEFALINGER","DE BEDSTE
+ANBEFALINGER"
+88,Meta,88_helle_1.jpg,Som sagt tidligere - fantastisk produkt og jeg kan ikke undvære det. Jeg er imponeret over produkt og service. Varm anbefaling herfra.,- Helle Søby Germansen,"""Jeg kan ikke
+undvære det.""","KAN IKKE
+UNDVÆRE DET","KAN IKKE
+UNDVÆRE DET"
+89,Meta,89_ingrid_1.jpg,Jeg kan tilslutte mig de mange andre. Bare en fantastisk creme. Dertil kommer også fantastisk kundeservice.,- Ingrid Hedevang,"""Bare en fantastisk creme
+og fantastisk kundeservice.""","FANTASTISK CREME
+OG KUNDESERVICE","FANTASTISK CREME
+OG KUNDESERVICE"
+90,Video,90_ingrid_2.jpg,"Den blødgør, opstrammer, reducere linjer og rynker og huden føles dejlig glat og lækker. Jeg er selv på nr. 2 og har fået den smukkeste bløde og glatteste hud. Den er bare super effektiv.",- Ingrid Hedevang,"""Har fået den smukkeste
+bløde og glatteste hud.""","SMUKKESTE BLØDE
+OG GLATTESTE HUD","SMUKKESTE BLØDE
+OG GLATTESTE HUD"
+91,Meta,91_jeanette_1.jpg,"Har brugt den siden den udkom, der er virkelig store stjerner herfra - et super effektivt produkt.",- Jeanette Quistgaard Steensen,"""Et super effektivt
+produkt.""","SUPER EFFEKTIVT
+PRODUKT","SUPER EFFEKTIVT
+PRODUKT"
+92,Meta,92_jytte_1.jpg,"Jeg får min datter til at bestille den. Jeg er på nr. 2 flaske og den er fantastisk, bruger den morgen og aften. Har bestilt nr. 3 flaske. Kan kun anbefale den.",- Jytte Pedersen,"""Den er fantastisk,
+bruger den morgen og aften.""","FANTASTISK
+MORGEN OG AFTEN","FANTASTISK
+MORGEN OG AFTEN"
+93,Meta,93_karin_1.jpg,"Dejlig konsistens og dejlig neutral duft der hurtigt forsvinder. I det hele taget en dejlig serum. Og jeg har prøvet mange i årenes løb, da jeg har sart og sensitiv hud. Så rigtig mange stjerner til jeres produkt.",- Karin,"""Dejlig serum til
+sart og sensitiv hud.""","DEJLIG SERUM TIL
+SART HUD","DEJLIG SERUM TIL
+SART HUD"
+94,Meta,94_karina_1.jpg,Jeg er SÅ tilfreds med Kjeldgaard's serum. Har benyttet den helt fra starten. Den har fjernet mine mørke pletter i ansigtet efter for meget soldyrkelse. Den trænger hurtigt ind i huden og har også reduceret nogen af de fine rynker omkring øjnene. Så den største anbefaling herfra.,- Karina,"""Har fjernet mørke pletter
+og reduceret rynker.""","FJERNET PLETTER
+OG RYNKER","FJERNET PLETTER
+OG RYNKER"
+95,Meta,95_karina_2.jpg,Jeg har brugt det siden det kom frem og kan varmt anbefale det. Det har reduceret mine rynker omkring øjnene og mine bekymringsrynker.,- Karina,"""Reduceret mine rynker
+og bekymringsrynker.""","REDUCERET RYNKER
+OG BEKYMRINGSRYNKER","REDUCERET RYNKER
+OG BEKYMRINGSRYNKER"
+96,Meta,96_kirsten_1.jpg,"Jeg har brugt det i snart et år, og jeg bruger ikke andre serummer. Den er helt vildt lækker. Jeg anbefaler den 100%.",- Kirsten Søndervang,"""Jeg anbefaler den 100%.""","ANBEFALER
+DEN 100%","ANBEFALER
+DEN 100%"
+97,Meta,97_kristina_1.jpg,"Det er det bedste produkt jeg har brugt, kan se tydelig forskel og kan varmt anbefale det selv med mine 74 år.",- Kristina Johnson,"""Kan se tydelig forskel
+med mine 74 år.""","TYDELIG FORSKEL
+VED 74 ÅR","TYDELIG FORSKEL
+VED 74 ÅR"
+98,Meta,98_lene_1.jpg,"Jeg er også mega tilfreds med denne serum. I en alder af 60 år har jeg desværre stadig uren og fedtet hud, men denne serum har virkelig hjulpet på det. Efter kun 3 ugers brug, ser jeg tydeligere, glattere og mere frisk hud. Kan varmt anbefales.",- Lene,"""Ser tydeligere, glattere
+og mere frisk hud.""","GLATTERE OG FRISKERE
+HUD PÅ 3 UGER","GLATTERE OG FRISKERE
+HUD PÅ 3 UGER"
+99,Meta,99_lene_1.jpg,"Jeg har brugt den i en uge nu og den er super god, kan varmt anbefales - jeg er fan og fortsætter.",- Lene Mogensen,"""Jeg er fan
+og fortsætter.""","JEG ER FAN
+OG FORTSÆTTER","JEG ER FAN
+OG FORTSÆTTER"
+100,Meta,100_lene_1.jpg,"Fantastisk Serum, har brugt den i 4 mdr. nu. Kan kun anbefales.",- Lene Nielsen,"""Brugt den i 4 mdr.
+og kan kun anbefales.""","BRUGT I 4 MDR.
+KAN KUN ANBEFALES","BRUGT I 4 MDR.
+KAN KUN ANBEFALES"
+101,Video,101_lilly_1.jpg,"Det er det bedste, jeg nogensinde har gjort. Min hud har fået glans, og i dag vil jeg ikke undvære den, derfor de bedste anbefalinger herfra.",- Lilly Thorsen,"""Min hud har fået glans igen
+og jeg vil ikke undvære den.""","MIN HUD HAR
+FÅET GLANS IGEN","MIN HUD HAR
+FÅET GLANS IGEN"
+102,Meta,102_lis_1.jpg,"Stor anbefaling herfra, det bedste produkt jeg har prøvet. Mine rynker er blevet glattet meget ud og det går bare fremad.",- Lis Pedersen,"""Mine rynker er blevet
+glattet meget ud.""","RYNKER GLATTET
+MEGET UD","RYNKER GLATTET
+MEGET UD"
+103,Meta,103_lis_1.jpg,"Helt fantastisk serum! Har aldrig rigtig haft en rutine morgen og aften. Men efter jeg er startet med denne serum, er det en ren fornøjelse, og jeg gør det gerne hver dag.",- Lis Rauff Sørensen,"""Det er en ren fornøjelse
+hver eneste dag.""","EN REN FORNØJELSE
+HVER DAG","EN REN FORNØJELSE
+HVER DAG"
+104,Meta,104_lisbeth_1.jpg,"Plejer at skifte og bruge flere forskellige cremer. Efter at jeg startede på Kjeldgaard, har jeg ikke brugt andet.",- Lisbeth Kobberup,"""Efter Kjeldgaard har
+jeg ikke brugt andet.""","BRUGER IKKE
+ANDET MERE","BRUGER IKKE
+ANDET MERE"
+105,Meta,105_lone_1.jpg,Super produkt. Kan varmt anbefales. Havde nogle hvide talgknopper. De er nu væk.,- Lone,"""Mine hvide talgknopper
+er nu væk.""","HVIDE TALGKNOPPER
+NU VÆK","HVIDE TALGKNOPPER
+NU VÆK"
+106,Meta,106_lone_2.jpg,"Virkelig lækker serum, jeg har brugt den i over et halvt år og jeg elsker den. Jeg har tit haft tør hud omkring næsen og i panden, det har jeg ikke mere og så hjælper den på de fine linjer omkring øjnene. ELSKER den og vil ikke undvære den.",- Lone,"""ELSKER den og vil
+ikke undvære den.""","ELSKER DEN OG
+VIL IKKE UNDVÆRE DEN","ELSKER DEN OG
+VIL IKKE UNDVÆRE DEN"
+107,Meta,107_lone_1.jpg,"Før brugte jeg serum, natcreme og øjencreme, nu bruger jeg kun denne serum.",- Lone Mikkelsen,"""Nu bruger jeg kun
+denne serum.""","KUN DENNE
+SERUM NU","KUN DENNE
+SERUM NU"
+108,Meta,108_malene_1.jpg,"Hvor er det lækkert, kan mærke og se forandring i mit ansigt.",- Malene Lundfort,"""Kan mærke og se
+forandring i ansigtet.""","MÆRKER OG SER
+FORANDRING","MÆRKER OG SER
+FORANDRING"
+109,Meta,109_marianne_1.jpg,Jeg har nørdet skønhedsprodukter siden jeg var 14 år - længe før det blev moderne - nu fylder jeg 64 år - og dette produkt er et absolut must have.,- Marianne Schmidt,"""Et absolut
+must have.""","ET ABSOLUT
+MUST HAVE","ET ABSOLUT
+MUST HAVE"
+110,Meta,110_marianne_1.jpg,"Fantastisk serum! Jeg har kun behov for denne serum, og ingen dag eller natcreme, vil virkelig anbefale den til alle.",- Marianne Thurø,"""Jeg har kun behov
+for denne serum.""","KUN BEHOV FOR
+DENNE SERUM","KUN BEHOV FOR
+DENNE SERUM"
+111,Meta,111_marina_1.jpg,"Selv for en bedstemor på 65 år, har den ændret min hud til det bedre.",- Marina Fehrn,"""Ændret min hud
+til det bedre.""","ÆNDRET MIN HUD
+TIL DET BEDRE","ÆNDRET MIN HUD
+TIL DET BEDRE"
+112,Meta,112_mia_1.jpg,Min hud stråler efter jeg er begyndt at bruge den.,- Mia Klakstein,"""Min hud stråler.""","MIN HUD
+STRÅLER","MIN HUD
+STRÅLER"
+113,Meta,113_pernille_1.jpg,"I overgangsalderen kan man godt mærke huden mangler fugt og elasticitet. Jeg har brugt serummet fra midt januar, og kan se og mærke at min hud er blevet mere elastisk og fugtet. Elsker den og anbefaler den til andre.",- Pernille Lützop Hansen,"""Min hud er blevet mere
+elastisk og fugtet.""","MERE ELASTISK
+OG FUGTET HUD","MERE ELASTISK
+OG FUGTET HUD"
+114,Meta,114_pia_1.jpg,Jeg har brugt Kjeldgaard nu i et år ca. og det er den første serum jeg har så god effekt med.,- Pia Kallmeyer,"""Den første serum jeg
+har så god effekt med.""","FØRSTE SERUM
+MED GOD EFFEKT","FØRSTE SERUM
+MED GOD EFFEKT"
+115,Meta,115_sanne_1.jpg,"Når jeg læser anmeldelser, er det altid med en vis skepsis. Jeg tænkte dog, at denne serum lød til at være god, og købte den. Allerede efter kun at have prøvet den én gang, lever den helt op til, hvad den lover. Min hud har de sidste 2-3 mdr. været tør, grå og kedelig. Jeg brugte den i går aftes, og stadigvæk her til formiddag er der mere glød, end der har været de sidste mange mdr.",- Sanne Frank Sloth,"""Den lever helt op til,
+hvad den lover.""","LEVER OP TIL
+HVAD DEN LOVER","LEVER OP TIL
+HVAD DEN LOVER"
+116,Meta,116_sanne_1.jpg,Elsker dette produkt og vil KLART ANBEFALE det til enhver at prøve.,- Sanne Kosten-Mortilfire Munch,"""Vil KLART ANBEFALE
+det til enhver.""","KLART
+ANBEFALET","KLART
+ANBEFALET"
+117,Meta,117_susanne_1.jpg,"Den er så god, har lige bestilt igen i dag. KÆMPE anbefaling.",- Susanne Thora Nielsen,"""KÆMPE
+anbefaling.""","KÆMPE
+ANBEFALING","KÆMPE
+ANBEFALING"
+118,Meta,118_suzette_1.jpg,Det er blevet et fast ritual morgen og aften her hos mig. Det er et helt fantastisk produkt. Kæmpe anbefaling herfra.,- Suzette Kjellerup,"""Det er blevet et fast
+ritual morgen og aften.""","FAST RITUAL
+MORGEN OG AFTEN","FAST RITUAL
+MORGEN OG AFTEN"
+119,Meta,119_tanja_1.jpg,Det er en fuldstændig fantastisk ansigtscreme.,- Tanja,"""En fuldstændig
+fantastisk ansigtscreme.""","FULDSTÆNDIG
+FANTASTISK","FULDSTÆNDIG
+FANTASTISK"
+120,Meta,120_tina_1.jpg,Har brugt den i 30 dage nu og med flot resultat.,- Tina Andreasen,"""Flot resultat
+på 30 dage.""","FLOT RESULTAT
+PÅ 30 DAGE","FLOT RESULTAT
+PÅ 30 DAGE"
+121,Meta,121_trine_1.jpg,Den giver en fin glød og en frisk og glattere hud.,- Trine,"""Fin glød og frisk,
+glattere hud.""","GLØD OG
+GLATTERE HUD","GLØD OG
+GLATTERE HUD"
+122,TP,122_nina_2.jpg,"Kan tydelig se en forskel i ansigtet og på halsen. Var lidt skeptisk inden jeg købte mit første Kjeldgaard produkt, men efter 3 mdr. kan jeg kun anbefale produktet. De synlige rynker er blevet meget mindre og min hud er blevet pæn og glat.",– Nina Eben Jensen,Kan tydelig se en forskel i ansigtet og på halsen,Kan tydelig se en forskel i ansigtet og på halsen,Kan tydelig se en forskel i ansigtet og på halsen
+123,TP,123_christel_2.jpg,"Mine markeringer i ansigtet er blevet væsentlig formindsket, ansigtshuden ser sund, mættet og ensartet ud. Store anbefalinger herfra.",– Christel Møker,Jeg er vildt begejstret,Jeg er vildt begejstret,Jeg er vildt begejstret
+124,TP,124_christina_1.jpg,"Virkeligt et lækkert produkt, min hud elsker det! Kan varmt anbefales.",– Christina,Min hud elsker det!,Min hud elsker det!,Min hud elsker det!
+125,TP,125_charlotte_1.jpg,Bare fantastisk - lever op til alt som beskrevet. Bestilt flere gange.,– Charlotte Marcher,,,
+126,TP,126_mona_1.jpg,Kan beskrives med 1 ord: Mirakelmiddel.,– Mona,,,
+127,TP,127_pia_1.jpg,Super godt produkt. Resultater allerede efter få dage.,– Pia Geisler Jensen,,,
+128,TP,128_lotte_1.jpg,"Den er mega god, tror selv at jeg er blevet 10 år yngre. Ved godt at tro flytter bjerge, men jeg tror. Tak herfra.",– Lotte Boyer,Tror jeg er blevet 10 år yngre,Tror jeg er blevet 10 år yngre,Tror jeg er blevet 10 år yngre
+129,TP,129_izabella_1.jpg,"Fantastisk produkt! Har prøvet en del, men dette er ud over al forventning.",– Izabella,"Har prøvet en del, men dette er ud over al forventning","Har prøvet en del, men dette er ud over al forventning","Har prøvet en del, men dette er ud over al forventning"
+130,TP,130_helle_1.jpg,Virkelig god serum.,– Helle Nørgaard Petersen,,,
+131,TP,131_tanja_1.jpg,Fantastisk ansigtsspleje. Jeg er fuldstændig afhængig. Kan varmt anbefales.,– Tanja Pedersen,,,
+132,TP,132_heidi_1.jpg,"Kjeldgaards ansigtsserum er behageligt, let at påføre og trænger hurtigt ind uden at fedte. Jeg bliver desuden positivt overrasket hver gang over den lynhurtige levering. Et produkt og en service, der klart kan anbefales!",– Heidi,,,
+133,TP,133_janne_1.jpg,"Jeg er ovenud tilfreds med produktet. Efter en måneds brug synes jeg min hud er kommet bedre i balance, den virker ikke så tør længere.",– Janne Fromberg Arvid,Min hud er kommet bedre i balance,Min hud er kommet bedre i balance,Min hud er kommet bedre i balance
+134,TP,134_lene_1.jpg,Kun godt. Har efterhånden prøvet en del serum uden synderlig positiv ændring. Men med Kjeldgaards mærker jeg virkelig en yderst positiv forandring. Kan på det varmeste anbefales.,– Lene Strate,,,
+135,TP,135_kunde_1.jpg,Jeg kan varmt anbefale denne serum. Ærgrer mig over at jeg ikke har taget et billede før jeg begyndte og så et nu - så ville man kunne se forskellen. Nemt at bruge. Det er bare super.,– Kunde,,,
+136,TP,136_anita_1.jpg,"Giver huden et fantastisk løft og masser af glød. I mit lange liv har jeg prøvet alverdens cremer, men dette produkt slår simpelthen alt. Min hud føles fuldstændig silkeblød, og man kan på ingen måde se, at jeg snart er 60 år.",– Anita Malmstedt,"Man kan på ingen måde se, at jeg snart er 60 år","Man kan på ingen måde se, at jeg snart er 60 år","Man kan på ingen måde se, at jeg snart er 60 år"
+137,TP,137_anita_2.jpg,"Jeg har prøvet alverdens cremer - men dette slår simpelthen alt. Min hud føles fuldstændig silkeblød, og man kan på ingen måde se, at jeg snart er 60 år. Det virker bare på alle parametre.",– Anita Malmstedt,Jeg har prøvet alverdens cremer – men dette slår simpelthen alt,Jeg har prøvet alverdens cremer – men dette slår simpelthen alt,Jeg har prøvet alverdens cremer – men dette slår simpelthen alt
+138,TP,138_anita_3.jpg,"Min hud føles fuldstændig silkeblød, og man kan på ingen måde se, at jeg snart er 60 år. Jeg kan tydeligt se, at ansigtet har fået et friskere udseende og et flot løft. Hvis du overvejer at prøve det, så gør det - det er alle pengene værd!",– Anita Malmstedt,Min hud føles fuldstændig silkeblød,Min hud føles fuldstændig silkeblød,Min hud føles fuldstændig silkeblød
+139,TP,139_birgitte_1.jpg,"Den Serum er bare helt fantastisk! Den giver mit ansigt en dejlig glød, masser af fugt, og reducerer rynker og et dejligt velvære. Jeg anvender den hver eneste morgen og den holder hele dagen. Den fedter ikke, men giver øjeblikkeligt fugt. Jeg kan kun anbefale den.",– Birgitte Larsen,Masser af fugt og færre rynker,Masser af fugt og færre rynker,Masser af fugt og færre rynker
+140,TP,140_birgitte_2.jpg,"Den Serum er bare helt fantastisk! Den giver mit ansigt en dejlig glød, masser af fugt, og reducerer rynker. Den fedter ikke, men giver øjeblikkeligt fugt. Jeg kan kun anbefale den.",– Birgitte Larsen,"Birgitte kalder den ""helt fantastisk""","Birgitte kalder den ""helt fantastisk""","Birgitte kalder den ""helt fantastisk"""
+141,Meta,141_britt_1.jpg,"Den bedste jeg har prøvet, man kan både se og mærke forskellen. Huden bliver mere blød og glat og rynkerne minimeres.",– Britt Bente Andreasen,Huden bliver mere blød og glat og rynkerne minimeres,Huden bliver mere blød og glat og rynkerne minimeres,Huden bliver mere blød og glat og rynkerne minimeres
